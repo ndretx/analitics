@@ -1,2 +1,5 @@
-pandas
-openpyxl
+streamlit>=1.0.0
+pandas>=1.0.0
+plotly>=5.0.0
+openpyxl>=3.0.0
+streamlit-plotly-events>=0.8.0
